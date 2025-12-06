@@ -21,7 +21,7 @@
       <init_from>../../materials/textures/ChromeReflection.png</init_from>
     </image>
     <image id="Generic_Misc_Details_png_001" name="Generic_Misc_Details_png_001">
-      <init_from>../../materials/textures/Generic_Misc_Details.png.001.png</init_from>
+      <init_from>../../materials/textures/Generic_Misc_Details.png</init_from>
     </image>
   </library_images>
   <library_effects>

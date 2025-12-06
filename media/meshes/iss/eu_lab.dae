@@ -12,7 +12,7 @@
   </asset>
   <library_images>
     <image id="Generic_Misc_Details_png_001" name="Generic_Misc_Details_png_001">
-      <init_from>../../materials/textures/Generic_Misc_Details.png.001.png</init_from>
+      <init_from>../../materials/textures/Generic_Misc_Details.png</init_from>
     </image>
     <image id="Columbus_01" name="Columbus_01">
       <init_from>../../materials/textures/Columbus_01.png</init_from>

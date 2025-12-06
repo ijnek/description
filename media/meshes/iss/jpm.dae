@@ -24,7 +24,7 @@
       <init_from>../../materials/textures/JPM_Racks_03.png</init_from>
     </image>
     <image id="JPM_Racks_01_png_002" name="JPM_Racks_01_png_002">
-      <init_from>../../materials/textures/JPM_Racks_01.png.002.png</init_from>
+      <init_from>../../materials/textures/JPM_Racks_01.png</init_from>
     </image>
     <image id="JPM_Racks_02_png" name="JPM_Racks_02_png">
       <init_from>../../materials/textures/JPM_Racks_02.png</init_from>
